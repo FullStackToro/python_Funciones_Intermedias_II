@@ -1,8 +1,8 @@
-# This is a sample Python script.
 
-# Press Mayús+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
+#1.- Cambia el valor 10 en x a 15. Una vez que haya terminado, x ahora debería ser [[5,2,3], [15,8,9]].
+#2.- Cambia el apellido del primer alumno de 'Jordan' a 'Bryant'
+#3.- En el directorio sports_directory, cambia 'Messi' a 'Andres'
+#4.- Cambia el valor 20 en z a 30
 
 def defVariable():
     x = [[5, 2, 3], [10, 8, 9]]
